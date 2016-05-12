@@ -29,19 +29,15 @@ public class RopeScript : MonoBehaviour {
 		{
 			joints[i] = Instantiate(rope);
 			joints[i].transform.position = this.transform.position;
-			//DistanceJoint2D joint = joints[i].GetComponent<DistanceJoint2D>();
-			//joint.connectedBody = ropeParent.GetComponent<Rigidbody2D>();
-			//joint.distance = distanceBetween;
-
-			//SpringJoint2D joint = joints[i].GetComponent<SpringJoint2D>();
-			//joint.connectedBody = ropeParent.GetComponent<Rigidbody2D>();
-			//joint.distance = distanceBetween;
-
-			//HingeJoint2D joint = joints[i].GetComponent<HingeJoint2D>();
-			//joint.connectedBody = ropeParent.GetComponent<Rigidbody2D>();
 
 			FixedJoint2D joint = joints[i].GetComponent<FixedJoint2D>();
 			joint.connectedBody = ropeParent.GetComponent<Rigidbody2D>();
+
+			if(ropeParent.GetComponent<RopeSegment>() != null)
+			{
+				ropeParent.GetComponent<RopeSegment>().down = joints[i];
+				joints[i].GetComponent<RopeSegment>().up = ropeParent;
+			}
 
 			ropeParent = joints[i];
 		}
