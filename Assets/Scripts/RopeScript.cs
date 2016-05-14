@@ -4,8 +4,9 @@ using System.Collections;
 [RequireComponent (typeof(Rigidbody2D))]
 public class RopeScript : MonoBehaviour {
 
-	public float distanceBetween = 0.5f;
-	public int subDivisions = 10;
+	public float distanceBetween = 0.1f;
+	public int subDivisions = 25;
+	public float yOffsetOnBuild = -0.04f;
 	public GameObject rope;
 
 	GameObject[] joints;
@@ -38,6 +39,9 @@ public class RopeScript : MonoBehaviour {
 				ropeParent.GetComponent<RopeSegment>().down = joints[i];
 				joints[i].GetComponent<RopeSegment>().up = ropeParent;
 			}
+
+			Vector3 newPos = ropeParent.transform.position + new Vector3(0,yOffsetOnBuild,0);
+			joints[i].transform.position = newPos;
 
 			ropeParent = joints[i];
 		}
