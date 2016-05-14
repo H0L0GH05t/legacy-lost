@@ -13,8 +13,10 @@ public class CharacterController : MonoBehaviour {
 	[Header("Jump Variables")]
 	public Transform groundCheck;
 	public float jumpForce = 5.0f;
+	public float jumpHeight = 10.0f;
 	bool ground = false;
-	float groundRadius = 0.05f;
+	float groundRadius = 0.016f;
+	float jumpSpeed;
 
 	//used for rope movement
 	[Header("Rope Movement")]
@@ -39,12 +41,13 @@ public class CharacterController : MonoBehaviour {
 	{
 		anim = GetComponent<Animator>();
 		ropeHold = GetComponent<SpringJoint2D>();
+		jumpSpeed = Mathf.Sqrt(-2*Physics.gravity.y*jumpHeight) + 0.1f;
 	}
 
 	void Update()
 	{
 		//jump
-		if(ground && (Input.GetAxis("Jump") > 0 || Input.GetAxis("Vertical") > 0)) { Jump(jumpForce); }
+		if(ground && (Input.GetAxis("Jump") > 0 || Input.GetAxis("Vertical") > 0)) { Jump(jumpSpeed); }
 		//grab rope
 		if(rope && Input.GetAxis("Fire1") > 0) { GrabRope(); }
 		//release rope
@@ -93,10 +96,13 @@ public class CharacterController : MonoBehaviour {
 		transform.localScale = scale;
 	}
 
-	void Jump(float force)
+	void Jump(float speed)
 	{
 		anim.SetBool("Ground",false);
-		GetComponent<Rigidbody2D>().AddForce(new Vector2(0,force),ForceMode2D.Impulse);
+		ground = false;
+		//GetComponent<Rigidbody2D>().AddForce(new Vector2(0,force),ForceMode2D.Impulse);
+		Rigidbody2D rigidbody = GetComponent<Rigidbody2D>();
+		rigidbody.velocity = new Vector2(rigidbody.velocity.x,speed);
 	}
 
 	void GrabRope()
@@ -140,7 +146,7 @@ public class CharacterController : MonoBehaviour {
 					{
 						//launch them up slightly and drop the rope (we have reached the end)
 						DropRope();
-						Jump(jumpForce*ropeJumpMultiplier);
+						Jump(jumpSpeed*ropeJumpMultiplier);
 					}
 				}
 				else if(Input.GetAxis("Vertical") < 0)
