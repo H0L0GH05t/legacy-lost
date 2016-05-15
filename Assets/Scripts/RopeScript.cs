@@ -7,6 +7,7 @@ public class RopeScript : MonoBehaviour {
 	public float distanceBetween = 0.1f;
 	public int subDivisions = 25;
 	public float yOffsetOnBuild = -0.04f;
+	public Transform ropeParent; //Only for sake of not clutering hierarchy, can be null
 	public GameObject rope;
 
 	GameObject[] joints;
@@ -25,25 +26,25 @@ public class RopeScript : MonoBehaviour {
 
 	void BuildRope()
 	{
-		GameObject ropeParent = this.gameObject;
+		GameObject previousRope = this.gameObject;
 		for(int i = 0; i < subDivisions;i++)
 		{
 			joints[i] = Instantiate(rope);
-			joints[i].transform.position = this.transform.position;
+			joints[i].transform.SetParent(ropeParent);
 
 			FixedJoint2D joint = joints[i].GetComponent<FixedJoint2D>();
-			joint.connectedBody = ropeParent.GetComponent<Rigidbody2D>();
+			joint.connectedBody = previousRope.GetComponent<Rigidbody2D>();
 
-			if(ropeParent.GetComponent<RopeSegment>() != null)
+			if(previousRope.GetComponent<RopeSegment>() != null)
 			{
-				ropeParent.GetComponent<RopeSegment>().down = joints[i];
-				joints[i].GetComponent<RopeSegment>().up = ropeParent;
+				previousRope.GetComponent<RopeSegment>().Down = joints[i];
+				joints[i].GetComponent<RopeSegment>().Up = previousRope;
 			}
 
-			Vector3 newPos = ropeParent.transform.position + new Vector3(0,yOffsetOnBuild,0);
+			Vector3 newPos = previousRope.transform.position + new Vector3(0,yOffsetOnBuild,0);
 			joints[i].transform.position = newPos;
 
-			ropeParent = joints[i];
+			previousRope = joints[i];
 		}
 	}
 }

@@ -141,7 +141,7 @@ public class CharacterController : MonoBehaviour {
 				lastRopeTime = 0;
 				if(Input.GetAxis("Vertical") > 0)
 				{
-					if(segment.up != null) { ropeHold.connectedBody = segment.up.GetComponent<Rigidbody2D>(); }
+					if(segment.Up != null) { ropeHold.connectedBody = segment.Up.GetComponent<Rigidbody2D>(); }
 					else
 					{
 						//launch them up slightly and drop the rope (we have reached the end)
@@ -151,7 +151,7 @@ public class CharacterController : MonoBehaviour {
 				}
 				else if(Input.GetAxis("Vertical") < 0)
 				{
-					if(segment.down != null) { ropeHold.connectedBody = segment.down.GetComponent<Rigidbody2D>(); }
+					if(segment.Down != null) { ropeHold.connectedBody = segment.Down.GetComponent<Rigidbody2D>(); }
 					//we are at the bottom, drop the rope
 					else { DropRope(); }
 				}
