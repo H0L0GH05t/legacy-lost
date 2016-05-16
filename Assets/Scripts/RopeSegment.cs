@@ -6,6 +6,12 @@ public class RopeSegment : MonoBehaviour {
 
 	public GameObject up;
 	public GameObject down;
+	float gravity;
+
+	void Start ()
+	{
+		gravity = this.GetComponent<Rigidbody2D>().gravityScale;
+	}
 
 	public GameObject Up
 	{
@@ -50,5 +56,26 @@ public class RopeSegment : MonoBehaviour {
 		{
 			return false;
 		}
+	}
+
+	public void RemoveGravity()
+	{
+		this.GetComponent<Rigidbody2D>().gravityScale = 0;
+	}
+
+	public void ReturnGravity()
+	{
+
+		this.GetComponent<Rigidbody2D>().gravityScale = gravity;
+	}
+
+	public void DisableCollider()
+	{
+		this.GetComponent<BoxCollider2D>().enabled = false;
+	}
+
+	public void EnableCollider()
+	{
+		this.GetComponent<BoxCollider2D>().enabled = true;
 	}
 }

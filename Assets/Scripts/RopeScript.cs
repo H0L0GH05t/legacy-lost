@@ -47,4 +47,24 @@ public class RopeScript : MonoBehaviour {
 			previousRope = joints[i];
 		}
 	}
+
+	public void RemoveGravity()
+	{
+		for(int i= 0; i < subDivisions; i++) { joints[i].GetComponent<RopeSegment>().RemoveGravity(); }
+	}
+
+	public void ReturnGravity()
+	{
+		for(int i= 0; i < subDivisions; i++) { joints[i].GetComponent<RopeSegment>().ReturnGravity(); }
+	}
+
+	public void DisableColliders()
+	{
+		for(int i= 0; i < subDivisions; i++) { joints[i].GetComponent<RopeSegment>().DisableCollider(); }
+	}
+
+	public void EnableColliders()
+	{
+		for(int i= 0; i <subDivisions; i++) { joints[i].GetComponent<RopeSegment>().EnableCollider(); }
+	}
 }
