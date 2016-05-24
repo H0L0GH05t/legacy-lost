@@ -10,9 +10,12 @@ public class MagicOrb : MonoBehaviour {
     // speed of our magic orb
     public float speed;
 
+    public static bool IsAlive;
+
 	// Use this for initialization
 	void Start ()
     {
+        IsAlive = true;
         // so we can assign our starting junction in the inspector
         targetJunction = startingJunction;
 	}
@@ -20,15 +23,40 @@ public class MagicOrb : MonoBehaviour {
 	// Update is called once per frame
 	void Update ()
     {
-        float step = speed * Time.deltaTime;
-        // moves us towards our target junction
-        transform.position = Vector3.MoveTowards(transform.position, targetJunction.position, step);
-
-        // changes the junction we are moving to
-        if (transform.position == targetJunction.transform.position)
+        if (IsAlive)
         {
-            // get a new junction from the junction we just reached
-            targetJunction = targetJunction.gameObject.GetComponent<Junction>().RedirectToNextJunction();
+            float step = speed * Time.deltaTime;
+            // moves us towards our target junction
+            transform.position = Vector3.MoveTowards(transform.position, targetJunction.position, step);
+
+            // changes the junction we are moving to
+            if (transform.position == targetJunction.transform.position)
+            {
+                // if the junction we just reached isn't the exit, then find a new junction to move to
+                if (!targetJunction.GetComponent<Junction>().isExit)
+                {
+                    // get the junction we just hit
+                    Junction oldJunction = targetJunction.GetComponent<Junction>();
+                    targetJunction = targetJunction.gameObject.GetComponent<Junction>().RedirectToNextJunction();
+                    // now change the old junction
+                    oldJunction.ChangeDirection();
+                    
+                }
+                else
+                {
+                    // we reached the finish, yay!
+                    IntChallengeRoom.gameIsWon = true;
+                    Debug.Log("yay! We won!");
+                }
+            }
         }
 	}
+
+    void OnTriggerEnter(Collider other)
+    {
+        if (other.gameObject.tag == "Enemy")
+        {
+            IsAlive = false;
+        }
+    }
 }
