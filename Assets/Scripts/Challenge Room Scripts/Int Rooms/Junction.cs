@@ -145,7 +145,10 @@ public class Junction : MonoBehaviour {
             RaycastHit hit;
             if (Physics.Raycast(transform.position, Vector3.up, out hit, 20))
             {
-                upJunction = hit.collider.gameObject.transform;
+                if (hit.collider.gameObject.tag == "Junction")
+                {
+                    upJunction = hit.collider.gameObject.transform;
+                }
             }
         }
         if (!downJunction)
@@ -153,7 +156,10 @@ public class Junction : MonoBehaviour {
             RaycastHit hit;
             if (Physics.Raycast(transform.position, Vector3.down, out hit, 20))
             {
-                downJunction = hit.collider.gameObject.transform;
+                if (hit.collider.gameObject.tag == "Junction")
+                {
+                    downJunction = hit.collider.gameObject.transform;
+                }
             }
         }
         if (!rightJunction)
@@ -161,7 +167,10 @@ public class Junction : MonoBehaviour {
             RaycastHit hit;
             if (Physics.Raycast(transform.position, Vector3.right, out hit, 20))
             {
-                rightJunction = hit.collider.gameObject.transform;
+                if (hit.collider.gameObject.tag == "Junction")
+                {
+                    rightJunction = hit.collider.gameObject.transform;
+                }
             }
         }
         if (!leftJunction)
@@ -169,7 +178,10 @@ public class Junction : MonoBehaviour {
             RaycastHit hit;
             if (Physics.Raycast(transform.position, Vector3.left, out hit, 20))
             {
-                leftJunction = hit.collider.gameObject.transform;
+                if (hit.collider.gameObject.tag == "Junction")
+                {
+                    leftJunction = hit.collider.gameObject.transform;
+                }
             }
         }
     }

@@ -27,5 +27,15 @@ public class IntChallengeRoom : MonoBehaviour {
                 }
             }
         }
+
+        // just dev stuff
+        if (Input.GetKeyDown(KeyCode.Escape))
+        {
+            Application.Quit();
+        }
+        if (Input.GetKeyDown(KeyCode.Space))
+        {
+            Application.LoadLevel(Application.loadedLevel);
+        }
     }
 }

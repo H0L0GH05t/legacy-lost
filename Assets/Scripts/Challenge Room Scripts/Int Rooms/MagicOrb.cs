@@ -57,6 +57,13 @@ public class MagicOrb : MonoBehaviour {
         if (other.gameObject.tag == "Enemy")
         {
             IsAlive = false;
+            // change our color to red so we know we dun goofed
+            gameObject.GetComponent<Renderer>().material.color = Color.red;
+        }
+
+        if(other.gameObject.tag == "BlockerPickup")
+        {
+            other.gameObject.GetComponent<BlockerPickup>().ActivateBlockerPickup();
         }
     }
 }
