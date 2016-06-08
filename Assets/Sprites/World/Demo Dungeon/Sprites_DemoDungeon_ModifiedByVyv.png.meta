@@ -1,0 +1,2781 @@
+fileFormatVersion: 2
+guid: cbf17e88134a8f34587896450353ede3
+timeCreated: 1465417760
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Sprites_DemoDungeon_ModifiedByVyv_0
+    21300002: Sprites_DemoDungeon_ModifiedByVyv_1
+    21300004: Sprites_DemoDungeon_ModifiedByVyv_2
+    21300006: Sprites_DemoDungeon_ModifiedByVyv_3
+    21300008: Sprites_DemoDungeon_ModifiedByVyv_4
+    21300010: Sprites_DemoDungeon_ModifiedByVyv_5
+    21300012: Sprites_DemoDungeon_ModifiedByVyv_6
+    21300014: Sprites_DemoDungeon_ModifiedByVyv_7
+    21300016: Sprites_DemoDungeon_ModifiedByVyv_9
+    21300018: Sprites_DemoDungeon_ModifiedByVyv_10
+    21300020: Sprites_DemoDungeon_ModifiedByVyv_11
+    21300022: Sprites_DemoDungeon_ModifiedByVyv_12
+    21300024: Sprites_DemoDungeon_ModifiedByVyv_13
+    21300026: Sprites_DemoDungeon_ModifiedByVyv_14
+    21300028: Sprites_DemoDungeon_ModifiedByVyv_15
+    21300030: Sprites_DemoDungeon_ModifiedByVyv_16
+    21300032: Sprites_DemoDungeon_ModifiedByVyv_17
+    21300034: Sprites_DemoDungeon_ModifiedByVyv_19
+    21300036: Sprites_DemoDungeon_ModifiedByVyv_20
+    21300038: Sprites_DemoDungeon_ModifiedByVyv_21
+    21300040: Sprites_DemoDungeon_ModifiedByVyv_23
+    21300042: Sprites_DemoDungeon_ModifiedByVyv_24
+    21300044: Sprites_DemoDungeon_ModifiedByVyv_25
+    21300046: Sprites_DemoDungeon_ModifiedByVyv_27
+    21300048: Sprites_DemoDungeon_ModifiedByVyv_28
+    21300050: Sprites_DemoDungeon_ModifiedByVyv_30
+    21300052: Sprites_DemoDungeon_ModifiedByVyv_31
+    21300054: Sprites_DemoDungeon_ModifiedByVyv_32
+    21300056: Sprites_DemoDungeon_ModifiedByVyv_33
+    21300058: Sprites_DemoDungeon_ModifiedByVyv_35
+    21300060: Sprites_DemoDungeon_ModifiedByVyv_36
+    21300062: Sprites_DemoDungeon_ModifiedByVyv_37
+    21300064: Sprites_DemoDungeon_ModifiedByVyv_38
+    21300066: Sprites_DemoDungeon_ModifiedByVyv_39
+    21300068: Sprites_DemoDungeon_ModifiedByVyv_41
+    21300070: Sprites_DemoDungeon_ModifiedByVyv_42
+    21300072: Sprites_DemoDungeon_ModifiedByVyv_43
+    21300074: Sprites_DemoDungeon_ModifiedByVyv_44
+    21300076: Sprites_DemoDungeon_ModifiedByVyv_45
+    21300078: Sprites_DemoDungeon_ModifiedByVyv_47
+    21300080: Sprites_DemoDungeon_ModifiedByVyv_48
+    21300082: Sprites_DemoDungeon_ModifiedByVyv_49
+    21300084: Sprites_DemoDungeon_ModifiedByVyv_50
+    21300086: Sprites_DemoDungeon_ModifiedByVyv_51
+    21300088: Sprites_DemoDungeon_ModifiedByVyv_53
+    21300090: Sprites_DemoDungeon_ModifiedByVyv_55
+    21300092: Sprites_DemoDungeon_ModifiedByVyv_56
+    21300094: Sprites_DemoDungeon_ModifiedByVyv_62
+    21300096: Sprites_DemoDungeon_ModifiedByVyv_64
+    21300098: Sprites_DemoDungeon_ModifiedByVyv_65
+    21300100: Sprites_DemoDungeon_ModifiedByVyv_66
+    21300102: Sprites_DemoDungeon_ModifiedByVyv_67
+    21300104: Sprites_DemoDungeon_ModifiedByVyv_68
+    21300106: Sprites_DemoDungeon_ModifiedByVyv_69
+    21300108: Sprites_DemoDungeon_ModifiedByVyv_70
+    21300110: Sprites_DemoDungeon_ModifiedByVyv_71
+    21300112: Sprites_DemoDungeon_ModifiedByVyv_72
+    21300114: Sprites_DemoDungeon_ModifiedByVyv_73
+    21300116: Sprites_DemoDungeon_ModifiedByVyv_74
+    21300118: Sprites_DemoDungeon_ModifiedByVyv_75
+    21300120: Sprites_DemoDungeon_ModifiedByVyv_76
+    21300122: Sprites_DemoDungeon_ModifiedByVyv_78
+    21300124: Sprites_DemoDungeon_ModifiedByVyv_79
+    21300126: Sprites_DemoDungeon_ModifiedByVyv_80
+    21300128: Sprites_DemoDungeon_ModifiedByVyv_81
+    21300130: Sprites_DemoDungeon_ModifiedByVyv_82
+    21300132: Sprites_DemoDungeon_ModifiedByVyv_83
+    21300134: Sprites_DemoDungeon_ModifiedByVyv_85
+    21300136: Sprites_DemoDungeon_ModifiedByVyv_86
+    21300138: Sprites_DemoDungeon_ModifiedByVyv_87
+    21300140: Sprites_DemoDungeon_ModifiedByVyv_88
+    21300142: Sprites_DemoDungeon_ModifiedByVyv_90
+    21300144: Sprites_DemoDungeon_ModifiedByVyv_91
+    21300146: Sprites_DemoDungeon_ModifiedByVyv_92
+    21300148: Sprites_DemoDungeon_ModifiedByVyv_93
+    21300150: Sprites_DemoDungeon_ModifiedByVyv_94
+    21300152: Sprites_DemoDungeon_ModifiedByVyv_96
+    21300154: Sprites_DemoDungeon_ModifiedByVyv_98
+    21300156: Sprites_DemoDungeon_ModifiedByVyv_99
+    21300158: Sprites_DemoDungeon_ModifiedByVyv_101
+    21300160: Sprites_DemoDungeon_ModifiedByVyv_102
+    21300162: Sprites_DemoDungeon_ModifiedByVyv_103
+    21300164: Sprites_DemoDungeon_ModifiedByVyv_104
+    21300166: Sprites_DemoDungeon_ModifiedByVyv_107
+    21300168: Sprites_DemoDungeon_ModifiedByVyv_110
+    21300170: Sprites_DemoDungeon_ModifiedByVyv_111
+    21300172: Sprites_DemoDungeon_ModifiedByVyv_112
+    21300174: Sprites_DemoDungeon_ModifiedByVyv_113
+    21300176: Sprites_DemoDungeon_ModifiedByVyv_114
+    21300178: Sprites_DemoDungeon_ModifiedByVyv_116
+    21300180: Sprites_DemoDungeon_ModifiedByVyv_119
+    21300182: Sprites_DemoDungeon_ModifiedByVyv_120
+    21300184: Sprites_DemoDungeon_ModifiedByVyv_123
+    21300186: Sprites_DemoDungeon_ModifiedByVyv_126
+    21300188: Sprites_DemoDungeon_ModifiedByVyv_127
+    21300190: Sprites_DemoDungeon_ModifiedByVyv_129
+    21300192: Sprites_DemoDungeon_ModifiedByVyv_130
+    21300194: Sprites_DemoDungeon_ModifiedByVyv_131
+    21300196: Sprites_DemoDungeon_ModifiedByVyv_133
+    21300198: Sprites_DemoDungeon_ModifiedByVyv_134
+    21300200: Sprites_DemoDungeon_ModifiedByVyv_136
+    21300202: Sprites_DemoDungeon_ModifiedByVyv_137
+    21300204: Sprites_DemoDungeon_ModifiedByVyv_139
+    21300206: Sprites_DemoDungeon_ModifiedByVyv_140
+    21300208: Sprites_DemoDungeon_ModifiedByVyv_141
+    21300210: Sprites_DemoDungeon_ModifiedByVyv_143
+    21300212: Sprites_DemoDungeon_ModifiedByVyv_145
+    21300214: Sprites_DemoDungeon_ModifiedByVyv_146
+    21300216: Sprites_DemoDungeon_ModifiedByVyv_150
+    21300218: Sprites_DemoDungeon_ModifiedByVyv_152
+    21300220: Sprites_DemoDungeon_ModifiedByVyv_153
+    21300222: Sprites_DemoDungeon_ModifiedByVyv_154
+    21300224: Sprites_DemoDungeon_ModifiedByVyv_155
+    21300226: Sprites_DemoDungeon_ModifiedByVyv_156
+    21300228: Sprites_DemoDungeon_ModifiedByVyv_157
+    21300230: Sprites_DemoDungeon_ModifiedByVyv_8
+    21300232: Sprites_DemoDungeon_ModifiedByVyv_158
+    21300234: Sprites_DemoDungeon_ModifiedByVyv_18
+    21300236: Sprites_DemoDungeon_ModifiedByVyv_40
+    21300238: Sprites_DemoDungeon_ModifiedByVyv_159
+    21300240: Sprites_DemoDungeon_ModifiedByVyv_29
+    21300242: Sprites_DemoDungeon_ModifiedByVyv_34
+    21300244: Sprites_DemoDungeon_ModifiedByVyv_46
+    21300246: Sprites_DemoDungeon_ModifiedByVyv_52
+    21300248: Sprites_DemoDungeon_ModifiedByVyv_54
+    21300250: Sprites_DemoDungeon_ModifiedByVyv_57
+    21300252: Sprites_DemoDungeon_ModifiedByVyv_58
+    21300254: Sprites_DemoDungeon_ModifiedByVyv_59
+    21300256: Sprites_DemoDungeon_ModifiedByVyv_60
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Sprites_DemoDungeon_ModifiedByVyv_0
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1841
+        width: 380
+        height: 322
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -180.98724, y: 153.68494}
+        - {x: -180.98724, y: -153.31506}
+        - {x: 181.01276, y: -153.31506}
+        - {x: 181.01276, y: 153.68494}
+    - name: Sprites_DemoDungeon_ModifiedByVyv_1
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 1840
+        width: 575
+        height: 324
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -272.93494, y: 154.73474}
+        - {x: -272.93494, y: -154.26526}
+        - {x: 274.06506, y: -154.26526}
+        - {x: 274.06506, y: 154.73474}
+    - name: Sprites_DemoDungeon_ModifiedByVyv_2
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 1839
+        width: 379
+        height: 324
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -180.35706, y: 154.78467}
+        - {x: -180.35706, y: -154.21533}
+        - {x: 180.64294, y: -154.21533}
+        - {x: 180.64294, y: 154.78467}
+    - name: Sprites_DemoDungeon_ModifiedByVyv_3
+      rect:
+        serializedVersion: 2
+        x: 1538
+        y: 1839
+        width: 381
+        height: 324
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -181.20374, y: 154.78467}
+        - {x: -181.20374, y: -154.21533}
+        - {x: 181.79626, y: -154.21533}
+        - {x: 181.79626, y: 154.78467}
+    - name: Sprites_DemoDungeon_ModifiedByVyv_4
+      rect:
+        serializedVersion: 2
+        x: 1953
+        y: 1837
+        width: 378
+        height: 324
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -179.40076, y: 154.8844}
+        - {x: -179.40076, y: -154.1156}
+        - {x: 180.59924, y: -154.1156}
+        - {x: 180.59924, y: 154.8844}
+    - name: Sprites_DemoDungeon_ModifiedByVyv_5
+      rect:
+        serializedVersion: 2
+        x: 2405
+        y: 1512
+        width: 574
+        height: 646
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -272.9431, y: 308.0929}
+        - {x: -272.9431, y: -306.9071}
+        - {x: 273.0569, y: -306.9071}
+        - {x: 273.0569, y: 308.0929}
+    - name: Sprites_DemoDungeon_ModifiedByVyv_6
+      rect:
+        serializedVersion: 2
+        x: 3032
+        y: 1512
+        width: 575
+        height: 646
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -273.21313, y: 308.0929}
+        - {x: -273.21313, y: -306.9071}
+        - {x: 274.78687, y: -306.9071}
+        - {x: 274.78687, y: 308.0929}
+    - name: Sprites_DemoDungeon_ModifiedByVyv_7
+      rect:
+        serializedVersion: 2
+        x: 3670
+        y: 1512
+        width: 575
+        height: 646
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -273.03174, y: 308.0929}
+        - {x: -273.03174, y: -306.9071}
+        - {x: 274.96826, y: -306.9071}
+        - {x: 274.96826, y: 308.0929}
+    - name: Sprites_DemoDungeon_ModifiedByVyv_9
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 1556
+        width: 492
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 156.09454, y: -102.60144}
+        - {x: 201.09454, y: -98.60144}
+        - {x: 234.09454, y: -63.60144}
+        - {x: 235.09454, y: -53.60144}
+        - {x: 235.09454, y: 41.39856}
+        - {x: 225.09454, y: 68.39856}
+        - {x: 211.09454, y: 87.39856}
+        - {x: 191.09454, y: 94.39856}
+        - {x: 142.09454, y: 100.39856}
+        - {x: 135.09454, y: 93.39856}
+        - {x: 28.094543, y: 95.39856}
+        - {x: 9.094543, y: 100.39856}
+        - {x: 2.0945435, y: 99.39856}
+        - {x: -27.905457, y: 94.39856}
+        - {x: -35.905457, y: 104.39856}
+        - {x: -115.90546, y: 104.39856}
+        - {x: -143.90546, y: 96.39856}
+        - {x: -151.90546, y: 99.39856}
+        - {x: -192.90546, y: 93.39856}
+        - {x: -215.90546, y: 94.39856}
+        - {x: -233.90546, y: 89.39856}
+        - {x: -233.90546, y: 76.39856}
+        - {x: -223.90546, y: 58.39856}
+        - {x: -229.90546, y: 37.39856}
+        - {x: -232.90546, y: 18.39856}
+        - {x: -232.90546, y: -35.60144}
+        - {x: -224.90546, y: -69.60144}
+        - {x: -197.90546, y: -100.60144}
+        - {x: -107.90546, y: -102.60144}
+        - {x: 5.0945435, y: -100.60144}
+        - {x: 5.0945435, y: -103.60144}
+        - {x: 22.094543, y: -103.60144}
+        - {x: 27.094543, y: -101.60144}
+        - {x: 124.09454, y: -102.60144}
+        - {x: 138.09454, y: -103.60144}
+        - {x: 155.09454, y: -103.60144}
+    - name: Sprites_DemoDungeon_ModifiedByVyv_10
+      rect:
+        serializedVersion: 2
+        x: 1231
+        y: 1728
+        width: 215
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -87.892944, y: 26.820557}
+        - {x: -101.892944, y: 13.820557}
+        - {x: -101.892944, y: -25.179443}
+        - {x: 103.107056, y: -25.179443}
+        - {x: 103.107056, y: 25.820557}
+        - {x: 91.107056, y: 26.820557}
+    - name: Sprites_DemoDungeon_ModifiedByVyv_11
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 1674
+        width: 79
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.336548, y: 41.01355}
+        - {x: -37.336548, y: 7.01355}
+        - {x: -37.336548, y: -39.98645}
+        - {x: 38.663452, y: -39.98645}
+        - {x: 38.663452, y: 12.01355}
+        - {x: 22.663452, y: 41.01355}
+    - name: Sprites_DemoDungeon_ModifiedByVyv_12
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 1636
+        width: 56
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.67035, y: 49.908813}
+        - {x: -26.67035, y: 47.908813}
+        - {x: -26.67035, y: -37.091187}
+        - {x: -23.67035, y: -49.091187}
+        - {x: 7.329651, y: -49.091187}
+        - {x: 25.32965, y: -39.091187}
+        - {x: 27.32965, y: -25.091187}
+        - {x: 27.32965, y: 49.908813}
+    - name: Sprites_DemoDungeon_ModifiedByVyv_13
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 1636
+        width: 57
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.960693, y: 49.908813}
+        - {x: -26.960693, y: -22.091187}
+        - {x: -20.960693, y: -49.091187}
+        - {x: 11.039307, y: -49.091187}
+        - {x: 28.039307, y: -10.091187}
+        - {x: 28.039307, y: 48.908813}
+        - {x: 25.039307, y: 49.908813}
+    - name: Sprites_DemoDungeon_ModifiedByVyv_14
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 1658
+        width: 408
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 194.90503, y: 22.311523}
+        - {x: -194.09497, y: 22.311523}
+        - {x: -194.09497, y: -21.688477}
+        - {x: 189.90503, y: -21.688477}
+        - {x: 194.90503, y: -14.688477}
+    - name: Sprites_DemoDungeon_ModifiedByVyv_15
+      rect:
+        serializedVersion: 2
+        x: 1859
+        y: 1684
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Sprites_DemoDungeon_ModifiedByVyv_16
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 1631
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Sprites_DemoDungeon_ModifiedByVyv_17
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 1543
+        width: 99
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 31.65564, y: 45.046875}
+        - {x: -33.34436, y: 45.046875}
+        - {x: -37.34436, y: 24.046875}
+        - {x: -37.34436, y: -36.953125}
+        - {x: -27.34436, y: -42.953125}
+        - {x: -10.34436, y: -44.953125}
+        - {x: 45.65564, y: -44.953125}
+        - {x: 45.65564, y: 39.046875}
+    - name: Sprites_DemoDungeon_ModifiedByVyv_19
+      rect:
+        serializedVersion: 2
+        x: 1841
+        y: 1616
+        width: 62
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Sprites_DemoDungeon_ModifiedByVyv_20
+      rect:
+        serializedVersion: 2
+        x: 2004
+        y: 1616
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Sprites_DemoDungeon_ModifiedByVyv_21
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 1616
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Sprites_DemoDungeon_ModifiedByVyv_23
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 1579
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Sprites_DemoDungeon_ModifiedByVyv_24
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 1502
+        width: 56
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.67035, y: 49.091675}
+        - {x: -26.67035, y: 48.091675}
+        - {x: -26.67035, y: -23.908325}
+        - {x: -20.67035, y: -48.908325}
+        - {x: 16.32965, y: -48.908325}
+        - {x: 27.32965, y: -6.908325}
+        - {x: 27.32965, y: 49.091675}
+    - name: Sprites_DemoDungeon_ModifiedByVyv_25
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 1502
+        width: 57
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.758667, y: 49.091675}
+        - {x: -26.758667, y: 30.091675}
+        - {x: -26.758667, y: 0.091674805}
+        - {x: -24.758667, y: -3.9083252}
+        - {x: -6.758667, y: -42.908325}
+        - {x: -3.758667, y: -48.908325}
+        - {x: 5.241333, y: -48.908325}
+        - {x: 24.241333, y: -40.908325}
+        - {x: 28.241333, y: -18.908325}
+        - {x: 28.241333, y: 49.091675}
+    - name: Sprites_DemoDungeon_ModifiedByVyv_27
+      rect:
+        serializedVersion: 2
+        x: 1947
+        y: 1578
+        width: 25
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Sprites_DemoDungeon_ModifiedByVyv_28
+      rect:
+        serializedVersion: 2
+        x: 1996
+        y: 1526
+        width: 138
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 57.454712, y: 27.394775}
+        - {x: 52.454712, y: 32.394775}
+        - {x: -24.545288, y: 32.394775}
+        - {x: -28.545288, y: 23.394775}
+        - {x: -27.545288, y: 21.394775}
+        - {x: -64.54529, y: 17.394775}
+        - {x: -65.54529, y: 14.394775}
+        - {x: -65.54529, y: 6.3947754}
+        - {x: -64.54529, y: 6.3947754}
+        - {x: 50.454712, y: -30.605225}
+        - {x: 66.45471, y: -30.605225}
+        - {x: 66.45471, y: 7.3947754}
+        - {x: 61.454712, y: 8.394775}
+    - name: Sprites_DemoDungeon_ModifiedByVyv_30
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1342
+        width: 200
+        height: 167
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 95.51021, y: 38.57129}
+        - {x: 94.51021, y: 58.57129}
+        - {x: 60.51021, y: 79.57129}
+        - {x: -77.48979, y: 79.57129}
+        - {x: -94.48979, y: 47.57129}
+        - {x: -94.48979, y: -68.42871}
+        - {x: -90.48979, y: -79.42871}
+        - {x: 86.51021, y: -79.42871}
+        - {x: 87.51021, y: -78.42871}
+        - {x: 95.51021, y: -30.42871}
+      - - {x: -95.48979, y: -9.428711}
+        - {x: -92.48979, y: -8.428711}
+        - {x: -92.48979, y: -5.428711}
+        - {x: -94.48979, y: -3.428711}
+        - {x: -95.48979, y: -3.428711}
+    - name: Sprites_DemoDungeon_ModifiedByVyv_31
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 1347
+        width: 120
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -51.254578, y: 75.8219}
+        - {x: -57.254578, y: 72.8219}
+        - {x: -57.254578, y: -74.1781}
+        - {x: 56.745422, y: -74.1781}
+        - {x: 57.745422, y: -73.1781}
+        - {x: 57.745422, y: 60.8219}
+        - {x: 47.745422, y: 75.8219}
+    - name: Sprites_DemoDungeon_ModifiedByVyv_32
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 1355
+        width: 107
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50.530823, y: 65.92285}
+        - {x: -50.530823, y: -20.077148}
+        - {x: -39.530823, y: -65.07715}
+        - {x: 47.469177, y: -65.07715}
+        - {x: 52.469177, y: -26.077148}
+        - {x: 52.469177, y: 65.92285}
+    - name: Sprites_DemoDungeon_ModifiedByVyv_33
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 1320
+        width: 109
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.6690674, y: 20.668457}
+        - {x: 36.330933, y: 32.668457}
+        - {x: 47.330933, y: 73.66846}
+        - {x: 20.330933, y: 73.66846}
+        - {x: -47.669067, y: 41.668457}
+        - {x: -51.669067, y: 33.668457}
+        - {x: -51.669067, y: -13.331543}
+        - {x: -47.669067, y: -73.33154}
+        - {x: -34.669067, y: -73.33154}
+        - {x: 47.330933, y: -31.331543}
+        - {x: 53.330933, y: -20.331543}
+        - {x: 53.330933, y: -10.331543}
+    - name: Sprites_DemoDungeon_ModifiedByVyv_35
+      rect:
+        serializedVersion: 2
+        x: 1678
+        y: 1440
+        width: 116
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20.814087, y: -34.816284}
+        - {x: 55.814087, y: -34.816284}
+        - {x: 55.814087, y: 35.183716}
+        - {x: -26.185913, y: 35.183716}
+        - {x: -55.185913, y: 27.183716}
+        - {x: -55.185913, y: 2.1837158}
+      - - {x: -48.185913, y: 21.183716}
+        - {x: -48.185913, y: 14.183716}
+        - {x: -40.185913, y: 14.183716}
+        - {x: -40.185913, y: 21.183716}
+      - - {x: -25.185913, y: 22.183716}
+        - {x: -26.185913, y: 20.183716}
+        - {x: -26.185913, y: 17.183716}
+        - {x: -25.185913, y: 16.183716}
+        - {x: -20.185913, y: 16.183716}
+        - {x: -20.185913, y: 21.183716}
+        - {x: -22.185913, y: 22.183716}
+    - name: Sprites_DemoDungeon_ModifiedByVyv_36
+      rect:
+        serializedVersion: 2
+        x: 1838
+        y: 1437
+        width: 116
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48.165527, y: 35.333374}
+        - {x: -48.165527, y: 24.333374}
+        - {x: -47.165527, y: 16.333374}
+        - {x: -44.165527, y: 13.333374}
+        - {x: -52.165527, y: 17.333374}
+        - {x: -55.165527, y: 17.333374}
+        - {x: -55.165527, y: 1.333374}
+        - {x: 19.834473, y: -34.666626}
+        - {x: 55.834473, y: -34.666626}
+        - {x: 55.834473, y: 34.333374}
+        - {x: 54.834473, y: 35.333374}
+    - name: Sprites_DemoDungeon_ModifiedByVyv_37
+      rect:
+        serializedVersion: 2
+        x: 2404
+        y: 820
+        width: 575
+        height: 644
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -273.3933, y: 306.1046}
+        - {x: -273.3933, y: -305.8954}
+        - {x: 273.6067, y: -305.8954}
+        - {x: 273.6067, y: 306.1046}
+    - name: Sprites_DemoDungeon_ModifiedByVyv_38
+      rect:
+        serializedVersion: 2
+        x: 3032
+        y: 820
+        width: 576
+        height: 644
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -273.71313, y: 306.1046}
+        - {x: -273.71313, y: -305.8954}
+        - {x: 275.28687, y: -305.8954}
+        - {x: 275.28687, y: 306.1046}
+    - name: Sprites_DemoDungeon_ModifiedByVyv_39
+      rect:
+        serializedVersion: 2
+        x: 3670
+        y: 820
+        width: 575
+        height: 644
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -273.03174, y: 306.1046}
+        - {x: -273.03174, y: -305.8954}
+        - {x: 274.96826, y: -305.8954}
+        - {x: 274.96826, y: 306.1046}
+    - name: Sprites_DemoDungeon_ModifiedByVyv_41
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 1364
+        width: 166
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -78.55261, y: 20.473999}
+        - {x: -78.55261, y: -18.526001}
+        - {x: 79.44739, y: -18.526001}
+        - {x: 80.44739, y: -7.526001}
+        - {x: 80.44739, y: 20.473999}
+    - name: Sprites_DemoDungeon_ModifiedByVyv_42
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 1319
+        width: 47
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.242065, y: 26.718262}
+        - {x: -22.242065, y: -26.281738}
+        - {x: 4.7579346, y: -26.281738}
+        - {x: 22.757935, y: -14.281738}
+        - {x: 22.757935, y: 26.718262}
+    - name: Sprites_DemoDungeon_ModifiedByVyv_43
+      rect:
+        serializedVersion: 2
+        x: 1324
+        y: 1322
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 33.468994, y: -20.431274}
+        - {x: 31.468994, y: -22.431274}
+        - {x: 31.468994, y: -25.431274}
+        - {x: 37.468994, y: -25.431274}
+        - {x: 37.468994, y: -22.431274}
+        - {x: 35.468994, y: -20.431274}
+      - - {x: -35.531006, y: 25.568726}
+        - {x: -35.531006, y: -14.431274}
+        - {x: 37.468994, y: -14.431274}
+        - {x: 37.468994, y: 25.568726}
+    - name: Sprites_DemoDungeon_ModifiedByVyv_44
+      rect:
+        serializedVersion: 2
+        x: 1435
+        y: 1315
+        width: 47
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.566895, y: 28.417847}
+        - {x: -22.566895, y: -25.582153}
+        - {x: -9.566895, y: -27.582153}
+        - {x: 23.433105, y: -27.582153}
+        - {x: 23.433105, y: 27.417847}
+        - {x: 21.433105, y: 28.417847}
+      - - {x: -9.566895, y: -18.582153}
+        - {x: -9.566895, y: -19.582153}
+        - {x: -6.5668945, y: -22.582153}
+        - {x: -3.5668945, y: -21.582153}
+        - {x: -3.5668945, y: -18.582153}
+        - {x: -5.5668945, y: -16.582153}
+        - {x: -7.5668945, y: -16.582153}
+    - name: Sprites_DemoDungeon_ModifiedByVyv_45
+      rect:
+        serializedVersion: 2
+        x: 1991
+        y: 1124
+        width: 73
+        height: 282
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7.2041016, y: 135.44348}
+        - {x: -28.795898, y: 123.44348}
+        - {x: -34.7959, y: 91.44348}
+        - {x: -34.7959, y: -76.55652}
+        - {x: -23.795898, y: -133.55652}
+        - {x: 17.204102, y: -133.55652}
+        - {x: 24.204102, y: -126.55652}
+        - {x: 36.2041, y: 11.443481}
+        - {x: 36.2041, y: 135.44348}
+    - name: Sprites_DemoDungeon_ModifiedByVyv_47
+      rect:
+        serializedVersion: 2
+        x: 1689
+        y: 1266
+        width: 42
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11.265503, y: 26.861572}
+        - {x: -9.734497, y: 26.861572}
+        - {x: -19.734497, y: 9.861572}
+        - {x: -19.734497, y: -25.138428}
+        - {x: 21.265503, y: -25.138428}
+        - {x: 21.265503, y: 10.861572}
+        - {x: 16.265503, y: 22.861572}
+    - name: Sprites_DemoDungeon_ModifiedByVyv_48
+      rect:
+        serializedVersion: 2
+        x: 1418
+        y: 1108
+        width: 206
+        height: 173
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.219116, y: 51.741333}
+        - {x: -51.219116, y: 83.74133}
+        - {x: -98.21912, y: 83.74133}
+        - {x: -98.21912, y: -82.25867}
+        - {x: 98.78088, y: -82.25867}
+        - {x: 98.78088, y: -67.25867}
+        - {x: 91.78088, y: -48.258667}
+    - name: Sprites_DemoDungeon_ModifiedByVyv_49
+      rect:
+        serializedVersion: 2
+        x: 1742
+        y: 1266
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4.6223145, y: 22.361572}
+        - {x: 4.6223145, y: 19.361572}
+        - {x: -5.3776855, y: 22.361572}
+        - {x: -12.377686, y: 22.361572}
+        - {x: -12.377686, y: 21.361572}
+        - {x: -20.377686, y: 12.361572}
+        - {x: -20.377686, y: -20.638428}
+        - {x: 19.622314, y: -20.638428}
+        - {x: 20.622314, y: -19.638428}
+        - {x: 20.622314, y: 13.361572}
+        - {x: 12.622314, y: 22.361572}
+    - name: Sprites_DemoDungeon_ModifiedByVyv_50
+      rect:
+        serializedVersion: 2
+        x: 1793
+        y: 1266
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.421265, y: 19.361572}
+        - {x: -20.421265, y: -17.638428}
+        - {x: 21.578735, y: -17.638428}
+        - {x: 21.578735, y: 19.361572}
+    - name: Sprites_DemoDungeon_ModifiedByVyv_51
+      rect:
+        serializedVersion: 2
+        x: 1846
+        y: 1266
+        width: 42
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.564453, y: 17.861572}
+        - {x: -19.564453, y: -16.138428}
+        - {x: 21.435547, y: -16.138428}
+        - {x: 21.435547, y: 17.861572}
+    - name: Sprites_DemoDungeon_ModifiedByVyv_53
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 1004
+        width: 123
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -58.73416, y: 108.9281}
+        - {x: -58.73416, y: -107.0719}
+        - {x: 43.26584, y: -107.0719}
+        - {x: 59.26584, y: -3.0718994}
+        - {x: 59.26584, y: 108.9281}
+    - name: Sprites_DemoDungeon_ModifiedByVyv_55
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 1089
+        width: 100
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32.039856, y: 62.688965}
+        - {x: -32.039856, y: 26.688965}
+        - {x: -1.039856, y: -45.311035}
+        - {x: 30.960144, y: -61.311035}
+        - {x: 48.960144, y: -61.311035}
+        - {x: 48.960144, y: 53.688965}
+        - {x: 21.960144, y: 62.688965}
+      - - {x: -12.039856, y: 16.688965}
+        - {x: -20.039856, y: 16.688965}
+        - {x: -26.039856, y: 11.688965}
+        - {x: -26.039856, y: 9.688965}
+        - {x: -25.039856, y: 6.688965}
+        - {x: -17.039856, y: 4.688965}
+        - {x: -13.039856, y: 4.688965}
+        - {x: -10.039856, y: 8.688965}
+        - {x: -10.039856, y: 15.688965}
+      - - {x: -45.039856, y: 53.688965}
+        - {x: -47.039856, y: 52.688965}
+        - {x: -47.039856, y: 46.688965}
+        - {x: -42.039856, y: 46.688965}
+        - {x: -42.039856, y: 52.688965}
+        - {x: -44.039856, y: 53.688965}
+    - name: Sprites_DemoDungeon_ModifiedByVyv_56
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 1089
+        width: 101
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.621765, y: 62.688965}
+        - {x: -40.621765, y: 53.688965}
+        - {x: -47.621765, y: -24.311035}
+        - {x: -47.621765, y: -61.311035}
+        - {x: -25.621765, y: -61.311035}
+        - {x: -3.6217651, y: -57.311035}
+        - {x: 35.378235, y: 26.688965}
+        - {x: 35.378235, y: 62.688965}
+      - - {x: 13.378235, y: 8.688965}
+        - {x: 16.378235, y: 4.688965}
+        - {x: 19.378235, y: 4.688965}
+        - {x: 28.378235, y: 7.688965}
+        - {x: 28.378235, y: 12.688965}
+        - {x: 27.378235, y: 14.688965}
+        - {x: 24.378235, y: 16.688965}
+        - {x: 15.378235, y: 16.688965}
+        - {x: 13.378235, y: 15.688965}
+      - - {x: 47.378235, y: 53.688965}
+        - {x: 44.378235, y: 50.688965}
+        - {x: 44.378235, y: 48.688965}
+        - {x: 47.378235, y: 45.688965}
+        - {x: 49.378235, y: 46.688965}
+        - {x: 49.378235, y: 52.688965}
+        - {x: 48.378235, y: 53.688965}
+    - name: Sprites_DemoDungeon_ModifiedByVyv_62
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 994
+        width: 210
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 60.16365, y: 53.42682}
+        - {x: -25.83635, y: 62.42682}
+        - {x: -83.83635, y: 62.42682}
+        - {x: -99.83635, y: 46.42682}
+        - {x: -99.83635, y: 7.426819}
+        - {x: -71.83635, y: 1.4268188}
+        - {x: -31.83635, y: 6.426819}
+        - {x: -23.83635, y: 23.426819}
+        - {x: 43.16365, y: -61.57318}
+        - {x: 101.16365, y: -61.57318}
+        - {x: 101.16365, y: -2.5731812}
+        - {x: 99.16365, y: 23.426819}
+      - - {x: 88.16365, y: 29.426819}
+        - {x: 86.16365, y: 25.426819}
+        - {x: 86.16365, y: 23.426819}
+        - {x: 88.16365, y: 21.426819}
+        - {x: 93.16365, y: 21.426819}
+        - {x: 95.16365, y: 22.426819}
+        - {x: 95.16365, y: 27.426819}
+        - {x: 93.16365, y: 29.426819}
+      - - {x: 90.16365, y: 36.42682}
+        - {x: 91.16365, y: 33.42682}
+        - {x: 94.16365, y: 33.42682}
+        - {x: 96.16365, y: 35.42682}
+        - {x: 95.16365, y: 38.42682}
+        - {x: 92.16365, y: 38.42682}
+    - name: Sprites_DemoDungeon_ModifiedByVyv_64
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 933
+        width: 95
+        height: 173
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 27.848755, y: 12.969055}
+        - {x: 6.848755, y: 82.969055}
+        - {x: -6.151245, y: 82.969055}
+        - {x: -30.151245, y: 8.969055}
+        - {x: -30.151245, y: 5.969055}
+        - {x: -40.151245, y: -4.030945}
+        - {x: -45.151245, y: -15.030945}
+        - {x: -45.151245, y: -82.030945}
+        - {x: 46.848755, y: -82.030945}
+        - {x: 46.848755, y: -4.030945}
+        - {x: 45.848755, y: -1.0309448}
+      - - {x: -21.151245, y: 67.969055}
+        - {x: -23.151245, y: 66.969055}
+        - {x: -23.151245, y: 61.969055}
+        - {x: -22.151245, y: 57.969055}
+        - {x: -18.151245, y: 55.969055}
+        - {x: -14.151245, y: 55.969055}
+        - {x: -12.151245, y: 56.969055}
+        - {x: -10.151245, y: 60.969055}
+        - {x: -10.151245, y: 62.969055}
+        - {x: -14.151245, y: 67.969055}
+    - name: Sprites_DemoDungeon_ModifiedByVyv_65
+      rect:
+        serializedVersion: 2
+        x: 1885
+        y: 1020
+        width: 275
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 124.49048, y: 13.130127}
+        - {x: 109.49048, y: 30.130127}
+        - {x: -118.50952, y: 30.130127}
+        - {x: -130.50952, y: 12.130127}
+        - {x: -130.50952, y: -19.869873}
+        - {x: -117.50952, y: -29.869873}
+        - {x: -51.50952, y: -29.869873}
+        - {x: 98.49048, y: -25.869873}
+        - {x: 132.49048, y: -23.869873}
+        - {x: 132.49048, y: -10.869873}
+    - name: Sprites_DemoDungeon_ModifiedByVyv_66
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 1014
+        width: 45
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Sprites_DemoDungeon_ModifiedByVyv_67
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 1012
+        width: 43
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Sprites_DemoDungeon_ModifiedByVyv_68
+      rect:
+        serializedVersion: 2
+        x: 1501
+        y: 967
+        width: 58
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.85852, y: 29.273376}
+        - {x: -27.85852, y: 20.273376}
+        - {x: -27.85852, y: -16.726624}
+        - {x: -15.8585205, y: -27.726624}
+        - {x: 16.14148, y: -27.726624}
+        - {x: 26.14148, y: -21.726624}
+        - {x: 28.14148, y: -13.726624}
+        - {x: 28.14148, y: 15.273376}
+        - {x: 19.14148, y: 29.273376}
+    - name: Sprites_DemoDungeon_ModifiedByVyv_69
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 851
+        width: 192
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -89.133026, y: 47.558594}
+        - {x: -91.133026, y: 44.558594}
+        - {x: -91.133026, y: -46.441406}
+        - {x: 91.866974, y: -46.441406}
+        - {x: 91.866974, y: 5.5585938}
+        - {x: 17.866974, y: 47.558594}
+    - name: Sprites_DemoDungeon_ModifiedByVyv_70
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 704
+        width: 102
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48.826233, y: 108.88983}
+        - {x: -48.826233, y: -29.110168}
+        - {x: -45.826233, y: -71.11017}
+        - {x: -31.826233, y: -105.11017}
+        - {x: -29.826233, y: -107.11017}
+        - {x: 34.173767, y: -107.11017}
+        - {x: 42.173767, y: -53.11017}
+        - {x: 49.173767, y: 15.889832}
+        - {x: 49.173767, y: 108.88983}
+    - name: Sprites_DemoDungeon_ModifiedByVyv_71
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 912
+        width: 130
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Sprites_DemoDungeon_ModifiedByVyv_72
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 912
+        width: 26
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Sprites_DemoDungeon_ModifiedByVyv_73
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 798
+        width: 14
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Sprites_DemoDungeon_ModifiedByVyv_74
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 874
+        width: 418
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Sprites_DemoDungeon_ModifiedByVyv_75
+      rect:
+        serializedVersion: 2
+        x: 1403
+        y: 441
+        width: 23
+        height: 418
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Sprites_DemoDungeon_ModifiedByVyv_76
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 807
+        width: 57
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.013184, y: 20.25299}
+        - {x: -27.013184, y: 16.25299}
+        - {x: -27.013184, y: -15.747009}
+        - {x: -25.013184, y: -18.74701}
+        - {x: 15.986816, y: -18.74701}
+        - {x: 15.986816, y: 20.25299}
+      - - {x: 23.986816, y: -10.747009}
+        - {x: 23.986816, y: -18.74701}
+        - {x: 28.986816, y: -18.74701}
+        - {x: 28.986816, y: -10.747009}
+    - name: Sprites_DemoDungeon_ModifiedByVyv_78
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 755
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Sprites_DemoDungeon_ModifiedByVyv_79
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 753
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Sprites_DemoDungeon_ModifiedByVyv_80
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 754
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Sprites_DemoDungeon_ModifiedByVyv_81
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 733
+        width: 95
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.1714172, y: -12.0564575}
+        - {x: -4.171417, y: -14.0564575}
+        - {x: -4.171417, y: -21.056458}
+        - {x: -2.1714172, y: -23.056458}
+        - {x: 0.82858276, y: -23.056458}
+        - {x: 3.8285828, y: -20.056458}
+        - {x: 3.8285828, y: -14.0564575}
+        - {x: 1.8285828, y: -12.0564575}
+      - - {x: -45.171417, y: 23.943542}
+        - {x: -45.171417, y: 7.9435425}
+        - {x: -42.171417, y: 5.9435425}
+        - {x: -29.171417, y: -12.0564575}
+        - {x: -28.171417, y: -14.0564575}
+        - {x: 6.828583, y: -14.0564575}
+        - {x: 46.828583, y: -4.0564575}
+        - {x: 46.828583, y: 22.943542}
+        - {x: 42.828583, y: 23.943542}
+    - name: Sprites_DemoDungeon_ModifiedByVyv_82
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 763
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Sprites_DemoDungeon_ModifiedByVyv_83
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 766
+        width: 85
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Sprites_DemoDungeon_ModifiedByVyv_85
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 702
+        width: 78
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.960693, y: 39.489563}
+        - {x: -22.960693, y: 27.489563}
+        - {x: -36.960693, y: -4.510437}
+        - {x: -36.960693, y: -37.510437}
+        - {x: 38.039307, y: -37.510437}
+        - {x: 38.039307, y: -4.510437}
+        - {x: 10.039307, y: 39.489563}
+    - name: Sprites_DemoDungeon_ModifiedByVyv_86
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 746
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.513184, y: 19.795166}
+        - {x: -20.513184, y: -17.204834}
+        - {x: -19.513184, y: -18.204834}
+        - {x: 22.486816, y: -18.204834}
+        - {x: 22.486816, y: 19.795166}
+    - name: Sprites_DemoDungeon_ModifiedByVyv_87
+      rect:
+        serializedVersion: 2
+        x: 2405
+        y: 129
+        width: 575
+        height: 646
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -273.4431, y: 308.06647}
+        - {x: -273.4431, y: -306.93353}
+        - {x: 273.5569, y: -306.93353}
+        - {x: 273.5569, y: 308.06647}
+    - name: Sprites_DemoDungeon_ModifiedByVyv_88
+      rect:
+        serializedVersion: 2
+        x: 3033
+        y: 132
+        width: 575
+        height: 645
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -273.26294, y: 307.41684}
+        - {x: -273.26294, y: -306.58316}
+        - {x: 274.73706, y: -306.58316}
+        - {x: 274.73706, y: 307.41684}
+    - name: Sprites_DemoDungeon_ModifiedByVyv_90
+      rect:
+        serializedVersion: 2
+        x: 1909
+        y: 198
+        width: 299
+        height: 553
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 70.29358, y: -198.87476}
+        - {x: 68.29358, y: -24.874756}
+        - {x: 113.29358, y: -27.874756}
+        - {x: 143.29358, y: 21.125244}
+        - {x: 143.29358, y: 161.12524}
+        - {x: 135.29358, y: 167.12524}
+        - {x: 103.29358, y: 161.12524}
+        - {x: 76.29358, y: 156.12524}
+        - {x: 93.29358, y: 241.12524}
+        - {x: 79.29358, y: 263.12524}
+        - {x: 18.29358, y: 263.12524}
+        - {x: -22.70642, y: 262.12524}
+        - {x: -23.70642, y: 263.12524}
+        - {x: -91.70642, y: 263.12524}
+        - {x: -95.70642, y: 262.12524}
+        - {x: -87.70642, y: 175.12524}
+        - {x: -80.70642, y: 158.12524}
+        - {x: -74.70642, y: 153.12524}
+        - {x: -98.70642, y: 161.12524}
+        - {x: -130.70642, y: 168.12524}
+        - {x: -139.70642, y: 162.12524}
+        - {x: -141.70642, y: 159.12524}
+        - {x: -141.70642, y: 36.125244}
+        - {x: -140.70642, y: 22.125244}
+        - {x: -116.70642, y: -11.874756}
+        - {x: -94.70642, y: -26.874756}
+        - {x: -72.70642, y: -72.874756}
+        - {x: -72.70642, y: -194.87476}
+        - {x: -109.70642, y: -205.87476}
+        - {x: -137.70642, y: -231.87476}
+        - {x: -137.70642, y: -258.87476}
+        - {x: -135.70642, y: -262.87476}
+        - {x: 140.29358, y: -262.87476}
+        - {x: 140.29358, y: -231.87476}
+        - {x: 115.29358, y: -207.87476}
+      - - {x: -102.70642, y: -24.874756}
+        - {x: -104.70642, y: -26.874756}
+        - {x: -104.70642, y: -30.874756}
+        - {x: -102.70642, y: -32.874756}
+        - {x: -100.70642, y: -32.874756}
+        - {x: -98.70642, y: -31.874756}
+        - {x: -97.70642, y: -27.874756}
+        - {x: -100.70642, y: -24.874756}
+      - - {x: 99.29358, y: -26.874756}
+        - {x: 99.29358, y: -29.874756}
+        - {x: 102.29358, y: -32.874756}
+        - {x: 105.29358, y: -31.874756}
+        - {x: 105.29358, y: -26.874756}
+        - {x: 103.29358, y: -24.874756}
+        - {x: 101.29358, y: -24.874756}
+      - - {x: -79.70642, y: -23.874756}
+        - {x: -79.70642, y: -30.874756}
+        - {x: -74.70642, y: -30.874756}
+        - {x: -73.70642, y: -29.874756}
+        - {x: -73.70642, y: -24.874756}
+        - {x: -74.70642, y: -23.874756}
+      - - {x: 76.29358, y: -24.874756}
+        - {x: 74.29358, y: -26.874756}
+        - {x: 74.29358, y: -28.874756}
+        - {x: 76.29358, y: -30.874756}
+        - {x: 79.29358, y: -30.874756}
+        - {x: 81.29358, y: -28.874756}
+        - {x: 81.29358, y: -26.874756}
+        - {x: 79.29358, y: -24.874756}
+      - - {x: -63.70642, y: 48.125244}
+        - {x: -65.70642, y: 46.125244}
+        - {x: -65.70642, y: 44.125244}
+        - {x: -63.70642, y: 42.125244}
+        - {x: -61.70642, y: 42.125244}
+        - {x: -59.70642, y: 44.125244}
+        - {x: -59.70642, y: 46.125244}
+        - {x: -61.70642, y: 48.125244}
+      - - {x: -73.70642, y: 63.125244}
+        - {x: -71.70642, y: 61.125244}
+        - {x: -68.70642, y: 62.125244}
+        - {x: -68.70642, y: 65.125244}
+        - {x: -70.70642, y: 67.125244}
+        - {x: -73.70642, y: 66.125244}
+      - - {x: 72.29358, y: 81.125244}
+        - {x: 68.29358, y: 79.125244}
+        - {x: 68.29358, y: 62.125244}
+        - {x: 70.29358, y: 61.125244}
+        - {x: 74.29358, y: 61.125244}
+        - {x: 77.29358, y: 68.125244}
+        - {x: 77.29358, y: 81.125244}
+      - - {x: 85.29358, y: 81.125244}
+        - {x: 88.29358, y: 82.125244}
+        - {x: 88.29358, y: 85.125244}
+        - {x: 85.29358, y: 86.125244}
+        - {x: 83.29358, y: 84.125244}
+      - - {x: 81.29358, y: 176.12524}
+        - {x: 75.29358, y: 173.12524}
+        - {x: 74.29358, y: 168.12524}
+        - {x: 74.29358, y: 159.12524}
+        - {x: 77.29358, y: 158.12524}
+        - {x: 81.29358, y: 158.12524}
+        - {x: 86.29358, y: 167.12524}
+        - {x: 86.29358, y: 176.12524}
+    - name: Sprites_DemoDungeon_ModifiedByVyv_91
+      rect:
+        serializedVersion: 2
+        x: 3670
+        y: 123
+        width: 575
+        height: 644
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -273.03174, y: 307.3657}
+        - {x: -273.03174, y: -305.6343}
+        - {x: 274.96826, y: -305.6343}
+        - {x: 274.96826, y: 307.3657}
+    - name: Sprites_DemoDungeon_ModifiedByVyv_92
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 715
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Sprites_DemoDungeon_ModifiedByVyv_93
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 693
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Sprites_DemoDungeon_ModifiedByVyv_94
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 704
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Sprites_DemoDungeon_ModifiedByVyv_96
+      rect:
+        serializedVersion: 2
+        x: 1451
+        y: 680
+        width: 57
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.864868, y: -14.413208}
+        - {x: -26.864868, y: -19.413208}
+        - {x: -21.864868, y: -19.413208}
+        - {x: -21.864868, y: -15.413208}
+        - {x: -23.864868, y: -13.413208}
+        - {x: -25.864868, y: -13.413208}
+      - - {x: -11.864868, y: 19.586792}
+        - {x: -14.864868, y: 18.586792}
+        - {x: -14.864868, y: -19.413208}
+        - {x: 26.135132, y: -19.413208}
+        - {x: 28.135132, y: -16.413208}
+        - {x: 28.135132, y: 14.586792}
+        - {x: 25.135132, y: 19.586792}
+    - name: Sprites_DemoDungeon_ModifiedByVyv_98
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 582
+        width: 108
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9.943481, y: 44.974243}
+        - {x: -33.05652, y: 19.974243}
+        - {x: -51.05652, y: -27.025757}
+        - {x: -51.05652, y: -41.025757}
+        - {x: -50.05652, y: -43.025757}
+        - {x: 52.94348, y: -43.025757}
+        - {x: 52.94348, y: 41.974243}
+        - {x: 48.94348, y: 44.974243}
+    - name: Sprites_DemoDungeon_ModifiedByVyv_99
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 547
+        width: 131
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2.7097015, y: -52.280212}
+        - {x: 6.7097015, y: -52.280212}
+        - {x: 6.7097015, y: -49.280212}
+        - {x: 3.7097015, y: -48.280212}
+        - {x: 1.7097015, y: -50.280212}
+      - - {x: -15.290298, y: 53.719788}
+        - {x: -35.2903, y: 29.719788}
+        - {x: -62.2903, y: -13.280212}
+        - {x: -62.2903, y: -43.280212}
+        - {x: 56.7097, y: -43.280212}
+        - {x: 61.7097, y: 1.7197876}
+        - {x: 61.7097, y: 53.719788}
+      - - {x: 58.7097, y: 11.719788}
+        - {x: 58.7097, y: 6.7197876}
+        - {x: 60.7097, y: 4.7197876}
+        - {x: 62.7097, y: 4.7197876}
+        - {x: 62.7097, y: 11.719788}
+        - {x: 61.7097, y: 12.719788}
+    - name: Sprites_DemoDungeon_ModifiedByVyv_101
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 559
+        width: 157
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35.69586, y: 41.621338}
+        - {x: -74.69586, y: -16.378662}
+        - {x: -74.69586, y: -46.378662}
+        - {x: 69.30414, y: -46.378662}
+        - {x: 75.30414, y: -37.378662}
+        - {x: 75.30414, y: -6.378662}
+        - {x: 38.30414, y: 41.621338}
+      - - {x: -22.695862, y: 42.621338}
+        - {x: -19.695862, y: 43.621338}
+        - {x: -19.695862, y: 46.621338}
+        - {x: -23.695862, y: 46.621338}
+        - {x: -24.695862, y: 45.621338}
+    - name: Sprites_DemoDungeon_ModifiedByVyv_102
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 557
+        width: 100
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.972168, y: -49.77893}
+        - {x: -21.972168, y: -50.77893}
+        - {x: -13.972168, y: -50.77893}
+        - {x: -13.972168, y: -48.77893}
+        - {x: -15.972168, y: -45.77893}
+        - {x: -20.972168, y: -45.77893}
+        - {x: -22.972168, y: -46.77893}
+      - - {x: 28.027832, y: 2.2210693}
+        - {x: 28.027832, y: -8.778931}
+        - {x: 26.027832, y: -11.778931}
+        - {x: 24.027832, y: -11.778931}
+        - {x: 27.027832, y: -7.7789307}
+        - {x: 28.027832, y: -3.7789307}
+        - {x: 28.027832, y: 8.221069}
+        - {x: 31.027832, y: 51.22107}
+        - {x: -38.972168, y: 51.22107}
+        - {x: -47.972168, y: -1.7789307}
+        - {x: -47.972168, y: -33.77893}
+        - {x: 48.027832, y: -33.77893}
+        - {x: 48.027832, y: -8.778931}
+        - {x: 47.027832, y: -2.7789307}
+        - {x: 32.027832, y: 5.2210693}
+        - {x: 30.027832, y: 4.2210693}
+    - name: Sprites_DemoDungeon_ModifiedByVyv_103
+      rect:
+        serializedVersion: 2
+        x: 1466
+        y: 625
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.612915, y: 18.829773}
+        - {x: -16.612915, y: -16.170227}
+        - {x: -13.612915, y: -17.170227}
+        - {x: 18.387085, y: -17.170227}
+        - {x: 18.387085, y: 18.829773}
+    - name: Sprites_DemoDungeon_ModifiedByVyv_104
+      rect:
+        serializedVersion: 2
+        x: 1611
+        y: 95
+        width: 251
+        height: 558
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 116.65552, y: -19.237885}
+        - {x: 119.65552, y: -2.2378845}
+        - {x: 120.65552, y: 9.7621155}
+        - {x: 120.65552, y: 26.762115}
+        - {x: 111.65552, y: 30.762115}
+        - {x: 64.65552, y: 64.762115}
+        - {x: 110.65552, y: 73.762115}
+        - {x: 120.65552, y: 107.762115}
+        - {x: 120.65552, y: 175.76212}
+        - {x: 74.65552, y: 204.76212}
+        - {x: 94.65552, y: 239.76212}
+        - {x: 80.65552, y: 263.76212}
+        - {x: 70.65552, y: 265.76212}
+        - {x: -86.34448, y: 265.76212}
+        - {x: -91.34448, y: 254.76212}
+        - {x: -70.34448, y: 188.76212}
+        - {x: -111.34448, y: 178.76212}
+        - {x: -119.34448, y: 167.76212}
+        - {x: -119.34448, y: 106.762115}
+        - {x: -117.34448, y: 86.762115}
+        - {x: -57.344482, y: 43.762115}
+        - {x: -119.34448, y: 33.762115}
+        - {x: -119.34448, y: -23.237885}
+        - {x: -101.34448, y: -38.237885}
+        - {x: -68.34448, y: -90.237885}
+        - {x: -70.34448, y: -120.237885}
+        - {x: -71.34448, y: -183.23788}
+        - {x: -85.34448, y: -258.23788}
+        - {x: -83.34448, y: -265.23788}
+        - {x: 78.65552, y: -265.23788}
+        - {x: 78.65552, y: -152.23788}
+        - {x: 65.65552, y: -39.237885}
+        - {x: 106.65552, y: -37.237885}
+      - - {x: 68.65552, y: 41.762115}
+        - {x: 69.65552, y: 38.762115}
+        - {x: 72.65552, y: 38.762115}
+        - {x: 74.65552, y: 40.762115}
+        - {x: 73.65552, y: 43.762115}
+        - {x: 70.65552, y: 43.762115}
+      - - {x: 68.65552, y: 62.762115}
+        - {x: 68.65552, y: 43.762115}
+        - {x: 82.65552, y: 43.762115}
+        - {x: 82.65552, y: 50.762115}
+        - {x: 77.65552, y: 62.762115}
+      - - {x: 116.65552, y: 175.76212}
+        - {x: 119.65552, y: 176.76212}
+        - {x: 119.65552, y: 179.76212}
+        - {x: 116.65552, y: 180.76212}
+        - {x: 114.65552, y: 178.76212}
+      - - {x: -93.34448, y: 229.76212}
+        - {x: -101.34448, y: 225.76212}
+        - {x: -101.34448, y: 220.76212}
+        - {x: -99.34448, y: 219.76212}
+        - {x: -93.34448, y: 219.76212}
+        - {x: -89.34448, y: 222.76212}
+        - {x: -89.34448, y: 227.76212}
+        - {x: -90.34448, y: 229.76212}
+    - name: Sprites_DemoDungeon_ModifiedByVyv_107
+      rect:
+        serializedVersion: 2
+        x: 1469
+        y: 574
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.262573, y: 16.87323}
+        - {x: -15.262573, y: 14.87323}
+        - {x: -16.262573, y: 13.87323}
+        - {x: -16.262573, y: -9.12677}
+        - {x: -11.262573, y: -16.12677}
+        - {x: 16.737427, y: -16.12677}
+        - {x: 17.737427, y: -14.12677}
+        - {x: 17.737427, y: 16.87323}
+    - name: Sprites_DemoDungeon_ModifiedByVyv_110
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 551
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Sprites_DemoDungeon_ModifiedByVyv_111
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 424
+        width: 95
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2.8324127, y: 53.854095}
+        - {x: -40.167587, y: 53.854095}
+        - {x: -40.167587, y: -42.145905}
+        - {x: -27.167587, y: -52.145905}
+        - {x: 14.832413, y: -52.145905}
+        - {x: 26.832413, y: -26.145905}
+        - {x: 26.832413, y: 35.854095}
+        - {x: 20.832413, y: 49.854095}
+      - - {x: 33.832413, y: 6.8540955}
+        - {x: 27.832413, y: 6.8540955}
+        - {x: 21.832413, y: -10.145905}
+        - {x: 21.832413, y: -27.145905}
+        - {x: 27.832413, y: -45.145905}
+        - {x: 43.832413, y: -45.145905}
+        - {x: 45.832413, y: -37.145905}
+        - {x: 45.832413, y: -6.1459045}
+        - {x: 42.832413, y: -2.1459045}
+    - name: Sprites_DemoDungeon_ModifiedByVyv_112
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 425
+        width: 87
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0.7991333, y: 57.30423}
+        - {x: -41.200867, y: 3.3042297}
+        - {x: -41.200867, y: -39.69577}
+        - {x: -38.200867, y: -54.69577}
+        - {x: -31.200867, y: -55.69577}
+        - {x: 19.799133, y: -55.69577}
+        - {x: 28.799133, y: -48.69577}
+        - {x: 42.799133, y: -27.69577}
+        - {x: 42.799133, y: 57.30423}
+    - name: Sprites_DemoDungeon_ModifiedByVyv_113
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 481
+        width: 124
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.777649, y: 19.011383}
+        - {x: -18.777649, y: 28.011383}
+        - {x: -42.77765, y: 28.011383}
+        - {x: -47.77765, y: 25.011383}
+        - {x: -57.77765, y: -17.988617}
+        - {x: -57.77765, y: -27.988617}
+        - {x: 9.222351, y: -27.988617}
+        - {x: 10.222351, y: -24.988617}
+        - {x: 10.222351, y: -15.988617}
+        - {x: 8.222351, y: -11.988617}
+      - - {x: 54.22235, y: -8.988617}
+        - {x: 45.22235, y: -8.988617}
+        - {x: 42.22235, y: -14.988617}
+        - {x: 38.22235, y: -23.988617}
+        - {x: 38.22235, y: -26.988617}
+        - {x: 39.22235, y: -27.988617}
+        - {x: 60.22235, y: -27.988617}
+        - {x: 60.22235, y: -19.988617}
+        - {x: 59.22235, y: -9.988617}
+    - name: Sprites_DemoDungeon_ModifiedByVyv_114
+      rect:
+        serializedVersion: 2
+        x: 1477
+        y: 527
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Sprites_DemoDungeon_ModifiedByVyv_116
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 419
+        width: 150
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 31.558807, y: 46.103455}
+        - {x: -27.441193, y: 46.103455}
+        - {x: -27.441193, y: 33.103455}
+        - {x: -42.441193, y: -17.896545}
+        - {x: -42.441193, y: -50.896545}
+        - {x: 61.558807, y: -50.896545}
+        - {x: 72.55881, y: -32.896545}
+        - {x: 72.55881, y: 7.1034546}
+        - {x: 70.55881, y: 9.103455}
+      - - {x: -71.44119, y: -21.896545}
+        - {x: -71.44119, y: -47.896545}
+        - {x: -70.44119, y: -50.896545}
+        - {x: -57.441193, y: -50.896545}
+        - {x: -48.441193, y: -41.896545}
+        - {x: -48.441193, y: -24.896545}
+        - {x: -50.441193, y: -21.896545}
+      - - {x: -20.441193, y: 49.103455}
+        - {x: -20.441193, y: 51.103455}
+        - {x: -25.441193, y: 51.103455}
+        - {x: -23.441193, y: 48.103455}
+    - name: Sprites_DemoDungeon_ModifiedByVyv_119
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 395
+        width: 140
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.645996, y: -39.199585}
+        - {x: -10.645996, y: -41.199585}
+        - {x: -1.6459961, y: -41.199585}
+        - {x: -1.6459961, y: -40.199585}
+        - {x: -5.645996, y: -36.199585}
+        - {x: -7.645996, y: -36.199585}
+      - - {x: -43.645996, y: 41.800415}
+        - {x: -60.645996, y: -5.199585}
+        - {x: -60.645996, y: -24.199585}
+        - {x: 67.354004, y: -24.199585}
+        - {x: 67.354004, y: 33.800415}
+        - {x: 65.354004, y: 41.800415}
+      - - {x: -66.645996, y: -9.199585}
+        - {x: -66.645996, y: -16.199585}
+        - {x: -65.645996, y: -16.199585}
+        - {x: -62.645996, y: -13.199585}
+        - {x: -62.645996, y: -11.199585}
+        - {x: -64.645996, y: -9.199585}
+    - name: Sprites_DemoDungeon_ModifiedByVyv_120
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 420
+        width: 100
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28.531677, y: -36.44641}
+        - {x: 28.531677, y: -37.44641}
+        - {x: 37.531677, y: -37.44641}
+        - {x: 37.531677, y: -36.44641}
+        - {x: 34.531677, y: -33.44641}
+        - {x: 31.531677, y: -33.44641}
+      - - {x: 23.531677, y: 34.55359}
+        - {x: 8.531677, y: 37.55359}
+        - {x: -47.468323, y: 37.55359}
+        - {x: -47.468323, y: -28.446411}
+        - {x: -45.468323, y: -32.44641}
+        - {x: 48.531677, y: -32.44641}
+        - {x: 48.531677, y: -3.4464111}
+        - {x: 47.531677, y: 1.5535889}
+    - name: Sprites_DemoDungeon_ModifiedByVyv_123
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 363
+        width: 97
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43.927246, y: -17.103668}
+        - {x: -44.927246, y: -18.103668}
+        - {x: -44.927246, y: -23.103668}
+        - {x: -42.927246, y: -24.103668}
+        - {x: -36.927246, y: -24.103668}
+        - {x: -33.927246, y: -23.103668}
+        - {x: -33.927246, y: -19.103668}
+        - {x: -34.927246, y: -17.103668}
+      - - {x: -36.927246, y: 0.8963318}
+        - {x: -45.927246, y: -3.1036682}
+        - {x: -45.927246, y: -13.103668}
+        - {x: -37.927246, y: -18.103668}
+        - {x: -21.927246, y: -18.103668}
+        - {x: -20.927246, y: -17.103668}
+        - {x: -20.927246, y: -7.103668}
+        - {x: -24.927246, y: 0.8963318}
+      - - {x: -8.927246, y: 25.896332}
+        - {x: -14.927246, y: 4.896332}
+        - {x: -14.927246, y: -12.103668}
+        - {x: -5.927246, y: -18.103668}
+        - {x: 25.072754, y: -18.103668}
+        - {x: 25.072754, y: 25.896332}
+      - - {x: 37.072754, y: 9.896332}
+        - {x: 32.072754, y: 7.896332}
+        - {x: 30.072754, y: 2.8963318}
+        - {x: 30.072754, y: -11.103668}
+        - {x: 31.072754, y: -13.103668}
+        - {x: 43.072754, y: -13.103668}
+        - {x: 47.072754, y: -10.103668}
+        - {x: 47.072754, y: 3.8963318}
+        - {x: 41.072754, y: 9.896332}
+    - name: Sprites_DemoDungeon_ModifiedByVyv_126
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 255
+        width: 112
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -53.289024, y: 47.28253}
+        - {x: -53.289024, y: -39.71747}
+        - {x: -33.289024, y: -46.71747}
+        - {x: 54.710976, y: -46.71747}
+        - {x: 54.710976, y: 47.28253}
+    - name: Sprites_DemoDungeon_ModifiedByVyv_127
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 284
+        width: 97
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -46.01413, y: 41.336243}
+        - {x: -46.01413, y: 7.3362427}
+        - {x: -28.01413, y: -27.663757}
+        - {x: -10.01413, y: -39.663757}
+        - {x: 5.9858704, y: -39.663757}
+        - {x: 13.98587, y: -34.663757}
+        - {x: 13.98587, y: -4.6637573}
+        - {x: -25.01413, y: 41.336243}
+      - - {x: 47.98587, y: 0.33624268}
+        - {x: 43.98587, y: 6.3362427}
+        - {x: 24.98587, y: 6.3362427}
+        - {x: 18.98587, y: -4.6637573}
+        - {x: 18.98587, y: -26.663757}
+        - {x: 27.98587, y: -34.663757}
+        - {x: 35.98587, y: -34.663757}
+        - {x: 47.98587, y: -26.663757}
+    - name: Sprites_DemoDungeon_ModifiedByVyv_129
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 303
+        width: 42
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17.974182, y: 13.888672}
+        - {x: 9.974182, y: 17.888672}
+        - {x: -6.025818, y: 17.888672}
+        - {x: -20.025818, y: 6.888672}
+        - {x: -20.025818, y: -14.111328}
+        - {x: -17.025818, y: -16.111328}
+        - {x: 20.974182, y: -16.111328}
+        - {x: 20.974182, y: 3.8886719}
+        - {x: 19.974182, y: 6.888672}
+    - name: Sprites_DemoDungeon_ModifiedByVyv_130
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 303
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Sprites_DemoDungeon_ModifiedByVyv_131
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 323
+        width: 58
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2.4434814, y: 24.891205}
+        - {x: -18.556519, y: 24.891205}
+        - {x: -27.556519, y: 17.891205}
+        - {x: -27.556519, y: -22.108795}
+        - {x: -26.556519, y: -23.108795}
+        - {x: 29.443481, y: -23.108795}
+        - {x: 29.443481, y: -10.108795}
+        - {x: 14.443481, y: 22.891205}
+    - name: Sprites_DemoDungeon_ModifiedByVyv_133
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 276
+        width: 91
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.027039, y: -13.2647705}
+        - {x: -16.027039, y: -9.2647705}
+        - {x: -17.027039, y: -8.2647705}
+        - {x: -24.027039, y: -8.2647705}
+        - {x: -27.027039, y: -12.2647705}
+        - {x: -27.027039, y: -20.26477}
+        - {x: -24.027039, y: -22.26477}
+        - {x: -9.027039, y: -22.26477}
+        - {x: -8.027039, y: -19.26477}
+        - {x: -8.027039, y: -16.26477}
+        - {x: -10.027039, y: -15.2647705}
+      - - {x: 39.97296, y: -18.26477}
+        - {x: 39.97296, y: -20.26477}
+        - {x: 41.97296, y: -22.26477}
+        - {x: 43.97296, y: -22.26477}
+        - {x: 43.97296, y: -16.26477}
+        - {x: 41.97296, y: -16.26477}
+      - - {x: 16.972961, y: -20.26477}
+        - {x: 17.972961, y: -21.26477}
+        - {x: 29.972961, y: -21.26477}
+        - {x: 29.972961, y: -16.26477}
+        - {x: 28.972961, y: -14.2647705}
+        - {x: 17.972961, y: -14.2647705}
+        - {x: 16.972961, y: -16.26477}
+      - - {x: 6.9729614, y: 22.73523}
+        - {x: -5.0270386, y: 12.7352295}
+        - {x: -5.0270386, y: 0.7352295}
+        - {x: 0.9729614, y: -7.2647705}
+        - {x: 30.972961, y: -11.2647705}
+        - {x: 42.97296, y: -11.2647705}
+        - {x: 42.97296, y: 4.7352295}
+        - {x: 32.97296, y: 22.73523}
+      - - {x: -37.02704, y: 19.73523}
+        - {x: -43.02704, y: 12.7352295}
+        - {x: -43.02704, y: -1.2647705}
+        - {x: -39.02704, y: -7.2647705}
+        - {x: -27.027039, y: -7.2647705}
+        - {x: -25.027039, y: -2.2647705}
+        - {x: -25.027039, y: 17.73523}
+        - {x: -29.027039, y: 19.73523}
+    - name: Sprites_DemoDungeon_ModifiedByVyv_134
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 282
+        width: 44
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.896667, y: -13.564026}
+        - {x: -18.896667, y: -16.564026}
+        - {x: 22.103333, y: -16.564026}
+        - {x: 22.103333, y: 6.435974}
+        - {x: 19.103333, y: 16.435974}
+        - {x: 15.1033325, y: 18.435974}
+        - {x: -7.8966675, y: 18.435974}
+        - {x: -20.896667, y: 0.43597412}
+    - name: Sprites_DemoDungeon_ModifiedByVyv_136
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 135
+        width: 178
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.58606, y: 71.76723}
+        - {x: -84.58606, y: -31.232773}
+        - {x: -84.58606, y: -57.232773}
+        - {x: -83.58606, y: -61.232773}
+        - {x: -31.58606, y: -71.23277}
+        - {x: 75.41394, y: -71.23277}
+        - {x: 86.41394, y: -27.232773}
+        - {x: 86.41394, y: 71.76723}
+    - name: Sprites_DemoDungeon_ModifiedByVyv_137
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 225
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.8352661, y: 24.778717}
+        - {x: -17.835266, y: 5.778717}
+        - {x: -17.835266, y: -23.221283}
+        - {x: 16.164734, y: -23.221283}
+        - {x: 18.164734, y: -19.221283}
+        - {x: 18.164734, y: 0.77871704}
+        - {x: 6.164734, y: 24.778717}
+    - name: Sprites_DemoDungeon_ModifiedByVyv_139
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 254
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Sprites_DemoDungeon_ModifiedByVyv_140
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 162
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6.828583, y: 23.42067}
+        - {x: -7.171417, y: 23.42067}
+        - {x: -17.171417, y: 9.42067}
+        - {x: -17.171417, y: -18.57933}
+        - {x: -10.171417, y: -21.57933}
+        - {x: 14.828583, y: -21.57933}
+        - {x: 18.828583, y: -6.5793304}
+        - {x: 18.828583, y: 21.42067}
+    - name: Sprites_DemoDungeon_ModifiedByVyv_141
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 182
+        width: 41
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.901642, y: 30.423218}
+        - {x: -19.901642, y: -25.576782}
+        - {x: -15.901642, y: -28.576782}
+        - {x: 6.098358, y: -28.576782}
+        - {x: 20.098358, y: -19.576782}
+        - {x: 20.098358, y: 25.423218}
+        - {x: 8.098358, y: 30.423218}
+    - name: Sprites_DemoDungeon_ModifiedByVyv_143
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 202
+        width: 86
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.52826, y: 7.9257812}
+        - {x: -31.52826, y: 5.9257812}
+        - {x: -40.52826, y: -8.074219}
+        - {x: -40.52826, y: -20.074219}
+        - {x: -15.528259, y: -20.074219}
+        - {x: -10.528259, y: -18.074219}
+        - {x: -10.528259, y: -2.0742188}
+        - {x: -16.52826, y: 7.9257812}
+      - - {x: 6.4717407, y: 21.925781}
+        - {x: -5.5282593, y: -11.074219}
+        - {x: -5.5282593, y: -20.074219}
+        - {x: 42.47174, y: -20.074219}
+        - {x: 42.47174, y: 20.925781}
+        - {x: 40.47174, y: 21.925781}
+    - name: Sprites_DemoDungeon_ModifiedByVyv_145
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 161
+        width: 61
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15.902466, y: 29.97055}
+        - {x: -16.097534, y: 29.97055}
+        - {x: -29.097534, y: 21.97055}
+        - {x: -29.097534, y: -17.02945}
+        - {x: -26.097534, y: -28.02945}
+        - {x: 23.902466, y: -28.02945}
+        - {x: 29.902466, y: -15.029449}
+        - {x: 29.902466, y: 3.9705505}
+        - {x: 26.902466, y: 13.970551}
+    - name: Sprites_DemoDungeon_ModifiedByVyv_146
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 172
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Sprites_DemoDungeon_ModifiedByVyv_150
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 142
+        width: 33
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Sprites_DemoDungeon_ModifiedByVyv_152
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 81
+        width: 53
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.23938, y: 39.960335}
+        - {x: -25.23938, y: 33.960335}
+        - {x: -25.23938, y: -34.039665}
+        - {x: -15.23938, y: -38.039665}
+        - {x: 26.76062, y: -38.039665}
+        - {x: 26.76062, y: 26.960335}
+        - {x: 10.76062, y: 39.960335}
+    - name: Sprites_DemoDungeon_ModifiedByVyv_153
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 157
+        width: 15
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Sprites_DemoDungeon_ModifiedByVyv_154
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 74
+        width: 73
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.817444, y: 41.80944}
+        - {x: -34.817444, y: 9.809441}
+        - {x: -34.817444, y: -41.19056}
+        - {x: 34.182556, y: -41.19056}
+        - {x: 35.182556, y: -39.19056}
+        - {x: 35.182556, y: 37.80944}
+        - {x: 30.182556, y: 41.80944}
+    - name: Sprites_DemoDungeon_ModifiedByVyv_155
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 78
+        width: 32
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Sprites_DemoDungeon_ModifiedByVyv_156
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 76
+        width: 84
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30.629395, y: 28.209702}
+        - {x: -33.629395, y: 14.209702}
+        - {x: -33.629395, y: -15.790298}
+        - {x: -25.629395, y: -27.790298}
+        - {x: 30.370605, y: -27.790298}
+        - {x: 41.370605, y: -23.790298}
+        - {x: 41.370605, y: 7.2097015}
+        - {x: 30.370605, y: 28.209702}
+      - - {x: -39.629395, y: -18.790298}
+        - {x: -38.629395, y: -19.790298}
+        - {x: -35.629395, y: -18.790298}
+        - {x: -35.629395, y: -15.790298}
+        - {x: -38.629395, y: -14.790298}
+        - {x: -39.629395, y: -15.790298}
+    - name: Sprites_DemoDungeon_ModifiedByVyv_157
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 89
+        width: 47
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.346924, y: 24.561356}
+        - {x: -22.346924, y: 22.561356}
+        - {x: -22.346924, y: -13.438644}
+        - {x: -19.346924, y: -22.438644}
+        - {x: -17.346924, y: -23.438644}
+        - {x: 20.653076, y: -23.438644}
+        - {x: 22.653076, y: -19.438644}
+        - {x: 22.653076, y: 21.561356}
+        - {x: 16.653076, y: 24.561356}
+    - name: Sprites_DemoDungeon_ModifiedByVyv_8
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 1566
+        width: 208
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -49.84017, y: 87.89978}
+        - {x: -85.84017, y: 40.89978}
+        - {x: -88.84017, y: 5.8997803}
+        - {x: -88.84017, y: -60.10022}
+        - {x: -84.84017, y: -83.10022}
+        - {x: -83.84017, y: -85.10022}
+        - {x: 90.15983, y: -85.10022}
+        - {x: 90.15983, y: -14.10022}
+        - {x: 80.15983, y: 69.89978}
+        - {x: 43.15983, y: 87.89978}
+      - - {x: -71.84017, y: 61.89978}
+        - {x: -69.84017, y: 58.89978}
+        - {x: -62.84017, y: 61.89978}
+        - {x: -62.84017, y: 64.89978}
+        - {x: -64.84017, y: 66.89978}
+        - {x: -65.84017, y: 66.89978}
+      - - {x: -61.84017, y: 69.89978}
+        - {x: -61.84017, y: 67.89978}
+        - {x: -59.84017, y: 65.89978}
+        - {x: -58.84017, y: 65.89978}
+        - {x: -51.84017, y: 72.89978}
+        - {x: -51.84017, y: 74.89978}
+        - {x: -54.84017, y: 75.89978}
+      - - {x: 56.15983, y: 85.89978}
+        - {x: 56.15983, y: 87.89978}
+        - {x: 51.15983, y: 87.89978}
+        - {x: 53.15983, y: 84.89978}
+    - name: Sprites_DemoDungeon_ModifiedByVyv_158
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 1421
+        width: 132
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -53.49524, y: 54.631348}
+        - {x: -57.49524, y: 44.631348}
+        - {x: -57.49524, y: -52.368652}
+        - {x: 63.50476, y: -52.368652}
+        - {x: 63.50476, y: 54.631348}
+    - name: Sprites_DemoDungeon_ModifiedByVyv_18
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 1541
+        width: 102
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 40.87683, y: 44.146606}
+        - {x: -29.123169, y: 44.146606}
+        - {x: -48.12317, y: 38.146606}
+        - {x: -48.12317, y: -47.853394}
+        - {x: 49.87683, y: -47.853394}
+        - {x: 49.87683, y: -8.853394}
+        - {x: 44.87683, y: 29.146606}
+    - name: Sprites_DemoDungeon_ModifiedByVyv_40
+      rect:
+        serializedVersion: 2
+        x: 1417
+        y: 1445
+        width: 78
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37.16919, y: 35.934326}
+        - {x: -37.16919, y: -4.065674}
+        - {x: -34.16919, y: -30.065674}
+        - {x: 36.83081, y: -30.065674}
+        - {x: 37.83081, y: -14.065674}
+        - {x: 37.83081, y: 35.934326}
+    - name: Sprites_DemoDungeon_ModifiedByVyv_159
+      rect:
+        serializedVersion: 2
+        x: 1518
+        y: 1421
+        width: 75
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35.7063, y: -19.368652}
+        - {x: -24.706299, y: -44.368652}
+        - {x: 11.293701, y: -56.368652}
+        - {x: 33.2937, y: -56.368652}
+        - {x: 36.2937, y: -53.368652}
+        - {x: 36.2937, y: 42.631348}
+        - {x: 35.2937, y: 57.631348}
+        - {x: 15.293701, y: 57.631348}
+        - {x: -28.706299, y: 39.631348}
+        - {x: -35.7063, y: 27.631348}
+      - - {x: 8.293701, y: -40.368652}
+        - {x: 10.293701, y: -42.368652}
+        - {x: 13.293701, y: -41.368652}
+        - {x: 13.293701, y: -38.368652}
+        - {x: 11.293701, y: -36.368652}
+        - {x: 8.293701, y: -37.368652}
+    - name: Sprites_DemoDungeon_ModifiedByVyv_29
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 1171
+        width: 303
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -144.08826, y: 44.099365}
+        - {x: -144.08826, y: -39.900635}
+        - {x: -89.08826, y: -39.900635}
+        - {x: -87.08826, y: 8.099365}
+        - {x: 61.911743, y: 8.099365}
+        - {x: -6.088257, y: 7.099365}
+        - {x: -39.088257, y: -8.900635}
+        - {x: 12.911743, y: -39.900635}
+        - {x: 142.91174, y: -39.900635}
+        - {x: 144.91174, y: -38.900635}
+        - {x: 144.91174, y: 11.099365}
+        - {x: 137.91174, y: 32.099365}
+        - {x: -13.088257, y: 44.099365}
+      - - {x: -140.08826, y: -18.900635}
+        - {x: -144.08826, y: -18.900635}
+        - {x: -144.08826, y: -29.900635}
+        - {x: -138.08826, y: -29.900635}
+        - {x: -137.08826, y: -25.900635}
+        - {x: -137.08826, y: -19.900635}
+      - - {x: -92.08826, y: -14.900635}
+        - {x: -91.08826, y: -15.900635}
+        - {x: -85.08826, y: -15.900635}
+        - {x: -85.08826, y: -7.900635}
+        - {x: -90.08826, y: -7.900635}
+        - {x: -92.08826, y: -11.900635}
+      - - {x: -117.08826, y: 44.099365}
+        - {x: -116.08826, y: 41.099365}
+        - {x: -108.08826, y: 39.099365}
+        - {x: -104.08826, y: 39.099365}
+        - {x: -103.08826, y: 41.099365}
+        - {x: -103.08826, y: 43.099365}
+        - {x: -104.08826, y: 44.099365}
+    - name: Sprites_DemoDungeon_ModifiedByVyv_34
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 1075
+        width: 86
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Sprites_DemoDungeon_ModifiedByVyv_46
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 1133
+        width: 122
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Sprites_DemoDungeon_ModifiedByVyv_52
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 1192
+        width: 129
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48.358276, y: 18.052124}
+        - {x: -60.358276, y: 17.052124}
+        - {x: -60.358276, y: -12.947876}
+        - {x: -59.358276, y: -17.947876}
+        - {x: -57.358276, y: -18.947876}
+        - {x: 60.641724, y: -18.947876}
+        - {x: 60.641724, y: 16.052124}
+        - {x: 57.641724, y: 18.052124}
+    - name: Sprites_DemoDungeon_ModifiedByVyv_54
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 752
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Sprites_DemoDungeon_ModifiedByVyv_57
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 558
+        width: 124
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19.877182, y: 51.671204}
+        - {x: 16.877182, y: 42.671204}
+        - {x: -18.122818, y: -0.3287964}
+        - {x: -51.122818, y: 10.671204}
+        - {x: -59.122818, y: 7.6712036}
+        - {x: -59.122818, y: -29.328796}
+        - {x: -57.122818, y: -38.328796}
+        - {x: -46.122818, y: -51.328796}
+        - {x: 54.877182, y: -51.328796}
+        - {x: 58.877182, y: -29.328796}
+        - {x: 58.877182, y: -3.3287964}
+        - {x: 37.877182, y: 51.671204}
+      - - {x: 55.877182, y: -38.328796}
+        - {x: 53.877182, y: -40.328796}
+        - {x: 53.877182, y: -42.328796}
+        - {x: 56.877182, y: -45.328796}
+        - {x: 57.877182, y: -45.328796}
+        - {x: 59.877182, y: -43.328796}
+        - {x: 59.877182, y: -39.328796}
+        - {x: 58.877182, y: -38.328796}
+      - - {x: -59.122818, y: 11.671204}
+        - {x: -59.122818, y: 4.6712036}
+        - {x: -58.122818, y: 2.6712036}
+        - {x: -55.122818, y: 2.6712036}
+        - {x: -52.122818, y: 3.6712036}
+        - {x: -52.122818, y: 8.671204}
+        - {x: -56.122818, y: 11.671204}
+    - name: Sprites_DemoDungeon_ModifiedByVyv_58
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 557
+        width: 73
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.656097, y: 45.72107}
+        - {x: -34.656097, y: 1.7210693}
+        - {x: -34.656097, y: -24.27893}
+        - {x: -24.656097, y: -45.27893}
+        - {x: 21.343903, y: -45.27893}
+        - {x: 36.343903, y: -34.27893}
+        - {x: 36.343903, y: 13.721069}
+        - {x: 19.343903, y: 45.72107}
+    - name: Sprites_DemoDungeon_ModifiedByVyv_59
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 701
+        width: 142
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22.354004, y: 38.03943}
+        - {x: -62.645996, y: -7.9605713}
+        - {x: -62.645996, y: -43.96057}
+        - {x: 59.354004, y: -43.96057}
+        - {x: 61.354004, y: -42.96057}
+        - {x: 68.354004, y: -22.960571}
+        - {x: 68.354004, y: 38.03943}
+      - - {x: 65.354004, y: -8.960571}
+        - {x: 67.354004, y: -10.960571}
+        - {x: 68.354004, y: -10.960571}
+        - {x: 68.354004, y: -5.9605713}
+        - {x: 66.354004, y: -5.9605713}
+    - name: Sprites_DemoDungeon_ModifiedByVyv_60
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 701
+        width: 125
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 60.923035, y: -47.96057}
+        - {x: 60.923035, y: 16.039429}
+        - {x: 54.923035, y: 47.03943}
+        - {x: 13.923035, y: 47.03943}
+        - {x: -59.076965, y: 15.039429}
+        - {x: -59.076965, y: -47.96057}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
